@@ -18,6 +18,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -40,6 +41,11 @@
             <path>
               <item name="LPC_G1" type="b2602c69:ProjectViewProjectNode" />
               <item name="LPC_G1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LPC_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LPC_G1" type="462c0819:PsiDirectoryNode" />
+              <item name="agenda" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
